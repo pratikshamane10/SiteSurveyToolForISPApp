@@ -59,9 +59,6 @@ A modern, production-ready web application designed for Internet Service Provide
     Open your web browser and navigate to:
     **http://localhost:9091/login**
 
-## Screenshots 📸
-
-*(Add screenshots of your modernized Login, Dashboard, and Property pages here by uploading them to your GitHub repository and linking them in this section).*
 
 ## License 📄
 This project is open-source and available under the MIT License.
